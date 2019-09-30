@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="thank_you">Terima Kasih!</string>
+    <string name="chocolate">Cokelat</string>
+    <string name="order">Pesan</string>
+    <string name="quantity">Jumlah</string>
+    <string name="toppings">Taburan</string>
+    <string name="whipped_cream">Krim Kocok</string>
+    <string name="price">Harga</string>
+    <string name="add">Tambah</string>
+    <string name="subjek">Just Java pesanan untuk</string>
+    <string name="lebih">Tidak bisa memesan lebih dari 100 kopi</string>
+    <string name="kurang">Tidak bisa memesan kurang dari 1 kopi</string>
+    <string name="nama">Nama</string>
+</resources>
